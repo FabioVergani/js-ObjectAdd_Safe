@@ -1,0 +1,2 @@
+js-ObjectAdd_Safe
+=================
